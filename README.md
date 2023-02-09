@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=408FFF&height=100&section=header&text=Hyun's%20Profile&fontSize=50&animation=scaleIn&fontColor=FFFFFF)
 <div align="center">
     "We choose to go to the moon in this decade and do the other things,
-</div>
     
-<div align="center"> ***not because they are easy, but because they are hard."***</div>
-
+***not because they are easy, but because they are hard."***
+</div>
 ### Which fields am I interested in?
 <code><img alt = "Data Science" height="25" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png">  Data Science</code>
 
