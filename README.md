@@ -34,7 +34,7 @@
         src="http://img.shields.io/badge/-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EA%B9%80-58a914264"
         style="height : 40px; margin-left : 5px; margin-right : 10px;"/>
 </a>
-<a href="guswns6370@gmail.com">
+<a href="mailto:guswns6370@gmail.com">
     <img 
         src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Gmail&link=mailto:guswns6370@gmail.com"
         style="height : 40px; margin-left : 5px; margin-right : 10px;"/>
