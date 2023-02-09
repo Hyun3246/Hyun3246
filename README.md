@@ -1,9 +1,21 @@
 ## Hyun3246   
 
+### Which fields I'm interested in?
+<code><img alt = "Data Science" height="25" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png" style="filter:alpha(opacity=0)">  Data Science</code>
+
+<code><img alt = "Deep Learning" height="25" src="https://cdn-icons-png.flaticon.com/512/2080/2080970.png">  Deep Learning</code>
+
+<code><img alt = "AI" height="25" src="https://cdn-icons-png.flaticon.com/512/826/826118.png">  AI</code>
+
+<code><img alt = "Python Programming" height="25" src="https://simpleicons.org/icons/python.svg">  AI</code>
+
+
 > Data Science, Deep-learning, AI, Python Programming
 
 > Undergraduate Student
 
+
+### GitHub Stat
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact&theme=vue-dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
