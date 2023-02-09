@@ -8,11 +8,15 @@
 <code><img alt = "AI" height="25" src="https://cdn-icons-png.flaticon.com/512/826/826118.png">  AI</code>
 
 <code><img alt = "Python Programming" height="25" src="https://simpleicons.org/icons/python.svg">  Python Programming</code>
-
+<br/>
+<br/>
 ### GitHub Stat
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact&theme=vue-dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=material)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact&theme=material&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hyun3246&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<br/>
 ### Social
 
 <a href="https://instagram.com/hyunj0207">
