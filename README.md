@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&lines=Hyun3246&font=Roboto&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&lines=김현준(Hyun)&font=Roboto&size=30)](https://git.io/typing-svg)
 
 ### Which fields I'm interested in?
 <code><img alt = "Data Science" height="25" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png">  Data Science</code>
