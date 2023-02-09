@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hyun's%20Profile&fontSize=50&animation=scaleIn&fontColor=408FFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=408FFF&height=100&section=header&text=Hyun's%20Profile&fontSize=50&animation=scaleIn&fontColor=FFFFFF)
 
 ### Which fields I'm interested in?
 <code><img alt = "Data Science" height="25" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png">  Data Science</code>
