@@ -9,7 +9,7 @@
 <a href="https://instagram.com/hyunj0207">
     <img 
         src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Instagram&link=https://instagram.com/hyunj0207"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <!--
