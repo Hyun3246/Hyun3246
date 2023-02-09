@@ -36,7 +36,7 @@
 </a>
 <a href="guswns6370@gmail.com">
     <img 
-        src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Gmail&link=guswns6370@gmail.com"
+        src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Gmail&link=mailto:guswns6370@gmail.com"
         style="height : 40px; margin-left : 5px; margin-right : 10px;"/>
 </a>
 <!--
