@@ -9,7 +9,17 @@
 <a href="https://instagram.com/hyunj0207">
     <img 
         src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Instagram&link=https://instagram.com/hyunj0207"
-        style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 50px; margin-left : 5px; margin-right : 5px;"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100023972960718&mibextid=ZbWKwL">
+    <img 
+        src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Facebook&link=https://www.facebook.com/profile.php?id=100023972960718&mibextid=ZbWKwL"
+        style="height : 50px; margin-left : 5px; margin-right : 5px;"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100023972960718&mibextid=ZbWKwL">
+    <img 
+        src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Facebook&link=https://www.facebook.com/profile.php?id=100023972960718&mibextid=ZbWKwL"
+        style="height : 50px; margin-left : 5px; margin-right : 5px;"/>
 </a>
 
 <!--
