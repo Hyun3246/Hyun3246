@@ -1,10 +1,19 @@
 ### Hyun3246   
-&nbsp;   
+
+데이터사이언스, 딥러닝, AI, 프로그래밍에 흥미를 가진 대학생입니다.
+
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact&theme=vue-dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://instagram.com/hyunj0207">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=plastic&logo=Instagram&link=https://instagram.com/hyunj0207"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
+
+http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=appveyor&logo=Instagram&link=https://instagram.com/hyunj0207?igshid=ZDdkNTZiNTM=
 
 <!--
 **Hyun3246/Hyun3246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
