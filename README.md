@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=408FFF&height=80&section=header&text=Hyun's%20Profile&fontSize=40&animation=scaleIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=408FFF&height=80&section=header&text=HyunJun's%20Profile&fontSize=40&animation=scaleIn&fontColor=FFFFFF)
 <div align="center">
    "We choose to go to the moon in this decade and do the other things,
     
