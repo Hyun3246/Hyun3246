@@ -16,9 +16,7 @@
 <br/>
 <br/>
 ### GitHub Stat
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=material)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact&theme=material&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
-
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=material)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&theme=minimal)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
