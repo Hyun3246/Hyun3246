@@ -18,9 +18,7 @@
 ### GitHub Stat
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hyun3246&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight_duo)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
