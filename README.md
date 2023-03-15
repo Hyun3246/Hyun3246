@@ -5,14 +5,7 @@
 ***not because they are easy, but because they are hard."***
 </div>
 
-### Which fields am I interested in?
-<code><img alt = "Data Science" height="25" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png">  Data Science</code>
-
-<code><img alt = "Deep Learning" height="25" src="https://cdn-icons-png.flaticon.com/512/2080/2080970.png">  Deep Learning</code>
-
-<code><img alt = "AI" height="25" src="https://cdn-icons-png.flaticon.com/512/826/826118.png">  AI</code>
-
-<code><img alt = "Python Programming" height="25" src="https://simpleicons.org/icons/python.svg">  Python Programming</code>
+### [VISIT "About HyunJun"](https://hyun3246.github.io/about-hyunjun/)
 <br/>
 <br/>
 ### GitHub Stat
