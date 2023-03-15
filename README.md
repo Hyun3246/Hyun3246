@@ -6,9 +6,10 @@
 </div>
 
 ### [VISIT "About HyunJun"](https://hyun3246.github.io/about-hyunjun/)
+Everything is in here!!
+<br/>
+<br/>
 
-<br/>
-<br/>
 ### GitHub Stat
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hyun3246&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun3246&show_icons=true&theme=default)
