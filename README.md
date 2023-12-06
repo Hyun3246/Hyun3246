@@ -2,25 +2,13 @@
   
 # About HyunJun
 
-<br/>
-
 <!-- Interest -->
-## Interest
-<br/>
-<figure style="display:block; text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/interest.png"
-       style="width: 30%; height: auto; margin:20px">
-</figure>
+## Interest & Skills
 
-<div style='padding:10px'></div>
-
-<!-- Skills -->  
-## Skills
-<br/>
-<figure style="display:block;text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/skills.png"
-       style="width: 50%; height: auto; margin-top: 10px">
-</figure>
+<div style="width:100%; margin:0 auto;">
+<a href="https://hyun3246.github.io/about-hyunjun/"><img style="width:30%;" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/interest.png"></a>
+<a href="https://hyun3246.github.io/about-hyunjun/"><img style="width:42%" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/skills.png"></a>
+</div>
 
 <!-- 깃허브 스탯 -->
 ## Dashboard
@@ -44,7 +32,6 @@
 
 <!-- 기타 관련 스탯 -->
 ### BaekJoon
-
 <a href="https://solved.ac/guswns3246/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3246" style="display: block; margin: 10px auto 10px auto; width:50%;">
 </a>
