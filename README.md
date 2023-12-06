@@ -1,34 +1,30 @@
 <div align="center">
+  
 # About HyunJun
+
 <br/>
 
 <!-- Interest -->
-<center>
 ## Interest
-</span>
 <br/>
 <figure style="display:block; text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/interest.png"
-       style="width: 50%; height: auto; margin:20px">
+       style="width: 30%; height: auto; margin:20px">
 </figure>
 
 <div style='padding:10px'></div>
 
-<!-- Skills -->
-<center>
-<span style=" font-size: 1.5em; font-weight:bold; color: #020722;">Skills
-</span>
+<!-- Skills -->  
+## Skills
 <br/>
 <figure style="display:block;text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/skills.png"
-       style="width: 70%; height: auto; margin-top: 10px">
+       style="width: 50%; height: auto; margin-top: 10px">
 </figure>
 
 <!-- 깃허브 스탯 -->
-<center>
-<span style=" font-size: 1.5em; font-weight:bold; color: #020722;">Github
-</span>
-
+## Dashboard
+### Gitbub
 <a href="https://github.com/Hyun3246">
   <img src="https://streak-stats.demolab.com/?user=Hyun3246&background=151517&sideNums=F5F5F7&currStreakNum=f5f5f7&sideLabels=F5F5F7" style="display: block; margin: 10px auto 10px auto; width:100%;">
 </a>
@@ -42,21 +38,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyun3246&theme=minimal&radius=10&bg_color=151517&title_color=F5F5F7&color=949498" style="display: block; margin: 10px auto 10px auto; width:100%;">
 </a>
 
-
-
 <a href="https://github.com/Hyun3246"><img style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun3246&layout=donut&bg_color=151517&title_color=F5F5F7&text_color=949498"></a>
 
 <div style='padding:10px'></div>
 
 <!-- 기타 관련 스탯 -->
-<span style=" font-size:1.5em; font-weight:bold; color: #020722;">BaekJoon
-</span>
+### BaekJoon
 
 <a href="https://solved.ac/guswns3246/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3246" style="display: block; margin: 10px auto 10px auto; width:50%;">
 </a>
-
-</center>
 
 <br/>
 <br/>
