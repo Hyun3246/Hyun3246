@@ -37,9 +37,9 @@
 
 <br/>
 <br/>
-</div>
 
-### Social
+
+## Social
 
 <a href="https://instagram.com/hyunj0207">
     <img 
@@ -52,7 +52,7 @@
         src="http://img.shields.io/badge/-FFFFFF?style=flat-square&logo=Gmail&link=mailto:guswns6370@gmail.com"
         style="height : 40px; margin-left : 5px; margin-right : 10px;"/>
 </a>
-
+</div>
 <!--
 **Hyun3246/Hyun3246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
