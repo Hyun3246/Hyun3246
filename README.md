@@ -1,9 +1,10 @@
-<center> <span style=" font-size: 3em; font-weight:bold; color: #020722">About HyunJun</span></center>
+<div align="center">
+# About HyunJun
 <br/>
 
 <!-- Interest -->
 <center>
-<span style=" font-size: 1.5em; font-weight:bold; color: #020722;">Interest
+## Interest
 </span>
 <br/>
 <figure style="display:block; text-align:center;">
@@ -59,6 +60,7 @@
 
 <br/>
 <br/>
+</div>
 
 ### Social
 
