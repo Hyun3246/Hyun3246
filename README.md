@@ -6,8 +6,8 @@
 ## Interest & Skills
 
 <div style="width:100%; margin:0 auto;">
-<a href="https://hyun3246.github.io/about-hyunjun/"><img style="width:30%;" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/interest.png"></a>
-<a href="https://hyun3246.github.io/about-hyunjun/"><img style="width:42%" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/skills.png"></a>
+<a href="https://hyun3246.github.io/about-hj/"><img style="width:30%;" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/interest.png"></a>
+<a href="https://hyun3246.github.io/about-hj/"><img style="width:42%" src="https://cdn.jsdelivr.net/gh/Hyun3246/hyun3246.github.io@master/image/about/skills.png"></a>
 </div>
 
 <!-- 깃허브 스탯 -->
