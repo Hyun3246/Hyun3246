@@ -30,9 +30,9 @@
 <div style='padding:10px'></div>
 
 <!-- 기타 관련 스탯 -->
-<!-- ### BaekJoon -->
-<!--<a href="https://solved.ac/guswns3246/"> -->
-<!--  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3246" style="display: block; margin: 10px auto 10px auto; width:40%;"> -->
+### BaekJoon 
+<a href="https://solved.ac/guswns3246/">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3246" style="display: block; margin: 10px auto 10px auto; width:40%;">
 </a>
 
 <br/>
